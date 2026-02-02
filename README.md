@@ -15,8 +15,6 @@ The dashboard helps understand sales performance, customer behavior, and product
 * Dashboard Design
 * Slicers for Interactivity
 
----
-
 ## 📈 Key Insights Covered
 
 * Monthly and yearly sales trends
